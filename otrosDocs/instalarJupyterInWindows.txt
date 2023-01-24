@@ -1,0 +1,11 @@
+# Descargar e instalar Python para Windows
+* Marcar la opción Add python.exe to PATH
+* Opciones avanzadas > install Python 3.11 for all users
+* Disable Path lenght limit
+
+
+# 
+
+
+
+

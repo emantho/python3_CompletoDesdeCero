@@ -1,0 +1,19 @@
+# Verificar instalación de Python3
+python3 --version
+
+# Verificar instalación de PIP
+pip --version
+
+* Si no está instalado ejecutar > sudo apt install python3-pip
+
+# instalar jupyter notebook
+pip install jupyter
+
+# Para ajecutar un notebook
+python3 -m notebook
+o 
+python3 -m jupyter notebook
+
+* Por defecto se abre en la home del usuario, para cambiar la ubicación se añade el path al comando
+
+python3 -m jupyter notebook /home/emanja/projectos/python3AlCompletoDesdeCero
