@@ -2,6 +2,10 @@ def saludar():
     print('Hola te saludo desde saludos.saludar()')
 
 
+def prueba():
+    print("Esta es una prueba de la nueva versión")
+
+
 class Saludo:
     def __init__(self):
         print("Hola, te saludo desde Saludos.__init__()")

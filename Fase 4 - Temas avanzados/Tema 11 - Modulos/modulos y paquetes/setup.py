@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='Mensajes',
-    version='1.0',
+    version='1.1',
     description='Un paquete para saludar y despedir',
     author='Eder Manjarres',
     author_email='hola@ktaca.dev',
@@ -26,6 +26,13 @@ setup(
 #       
 #   Con "pip list" es posible ver la lista de paquetes instalados
 
-#
+# 3) Para actualizar
+#   Repetir el paso 1 cambiando el número de versión
+#   Cambiar el mensaje si se quiere
+#   Repetir paso 2 apuntando a la nueva versión añadiendo --upgrade al final, ie. pip install <paquete>.tar.gz --upgrade
+#   
 
+# 4) Para desinstalar
+#   pip uninstall <paquete> ie. pip uninstall mensajes
+#
 
