@@ -23,6 +23,10 @@
 # Para importar un modulo dentro de un paquete se usa la siguiente sintaxis
 
 from mensajes.hola.saludos import saludar, Saludo
+from mensajes.adios.despedida import despedir, Despedida
 
 saludar()
 Saludo()
+
+despedir()
+Despedida()
